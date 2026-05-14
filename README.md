@@ -1,4 +1,4 @@
-# python
+# python (exercícios do curso de pós do SENAI)
 
 Referências dos slides e exercícios:
 
